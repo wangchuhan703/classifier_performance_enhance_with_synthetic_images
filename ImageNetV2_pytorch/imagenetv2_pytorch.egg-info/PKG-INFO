@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: imagenetv2-pytorch
+Version: 0.1
+Summary: imagenetv2 datasets for PyTorch
+Author: Benjamin Recht, Rebecca Roelofs, Ludwig Schmidt, Vaishaal Shankar
+Author-email: vaishaal@gmail.com
